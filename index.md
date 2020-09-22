@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/FelicityDaniels/FelicityDaniels.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-![Image](0.jfif =100x)
+![Image](0.jfif =1000x)
 
 
 space               space               space
