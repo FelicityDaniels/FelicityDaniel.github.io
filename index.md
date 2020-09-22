@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/FelicityDaniels/FelicityDaniels.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+![Image](0.jfif)
+
 space               space               space
 [Click Here to go to my other page](second_page.md)
 <button onclick="document.location='second_page.md'">BUTTON</button>
